@@ -1,0 +1,77 @@
+body{
+    justify-content: center;
+    background-color: black;
+
+}
+.post{
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    background-color: white;
+
+
+    
+}
+.post-head{
+    align-items: center;
+    display: flex;
+    width: 495px;
+    height: 50px;
+   
+
+}
+.perfil{
+    justify-content: left;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+   
+
+}
+.profile-name{
+    align-items: center;
+    justify-content: left;
+    margin-left: 3px;
+    
+
+}
+
+.options{
+
+    align-items: center;
+    justify-content: flex-end;
+    margin-left: auto;
+    margin-right: 3px;
+}
+.publicacion{
+    width: 500px;
+}
+.post-food{
+
+    width: 495px;
+    height: 160px;
+}
+#icons{
+    width: 495px;
+    height: 25px;
+    align-items: center;
+    display: flex;
+    
+}
+#icons > i{
+    font-size: 20px;
+    margin: 2px;
+}
+#save{
+   
+    justify-content: flex-end;
+    margin-left: auto;
+    margin-right: 5px;
+    align-items: center;
+}
+#save > i{
+    font-size: 20px;
+}
+#description{
+    margin-left: 2px;
+}
